@@ -1,4 +1,4 @@
-var chocolatBars = 
+var chocolateBars = 
 [
   "snickers",
   "hundred grand",
